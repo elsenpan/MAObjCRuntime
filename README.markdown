@@ -1,3 +1,15 @@
+What is a meta-class in Objective-C?
+http://www.cocoawithlove.com/2010/01/what-is-meta-class-in-objective-c.html
+
+Api Demo:
+https://github.com/ming1016/study/wiki/Objc-Runtime
+
+Class Diagram:
+http://www.sealiesoftware.com/blog/class%20diagram.pdf
+
+Understanding the Objective-C Runtime:
+http://cocoasamurai.blogspot.jp/2010/01/understanding-objective-c-runtime.html
+
 MAObjCRuntime
 -------------
 
